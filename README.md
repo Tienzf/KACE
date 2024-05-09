@@ -4,7 +4,7 @@
 - **cd /opt/quest/kace/bin/**
 - **./runkbot 1 0**
 ## Start and Stop KACE Agent for Rocky Linux.
-To start the Agent, enter:
+**To start the Agent, enter:**
 - **/opt/quest/kace/bin/AMPTools start**
-To stop the Agent, enter
+**To stop the Agent, enter**
 - **/opt/quest/kace/bin/AMPTools stop**
