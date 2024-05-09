@@ -8,3 +8,6 @@
 - **/opt/quest/kace/bin/AMPTools start**
 ### To stop the Agent, enter:
 - **/opt/quest/kace/bin/AMPTools stop**
+## Manually remove KACE Agent for Rocky Linux.
+- **sudo rpm -e ampagent**
+- **rm -rf /var/quest/kace/**
